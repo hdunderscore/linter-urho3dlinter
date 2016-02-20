@@ -1,8 +1,0 @@
-{
-  "execPath": "exec_updir",
-  "gccDefaultCFlags": "cflags_updir",
-  "gccDefaultCppFlags": "cppflags_updir",
-  "gccErrorLimit": 5,
-  "gccIncludePaths": "includepath_updir",
-  "gccSuppressWarnings": true
-}
