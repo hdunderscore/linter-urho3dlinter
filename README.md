@@ -6,8 +6,9 @@ Linter plugin for [Linter](https://github.com/AtomLinter/Linter), provides an in
 Similarly to linter-gcc, a local config file will be searched for named `.urho-flags.json`, example:
 ```json
 {
+  "enabled": true,
   "execPath": "./Urho3DLinter",
-  "defaultFlags": "-log debug",
-  "defaultPackages": "Data;CoreData"
+  "defaultFlags": "-log warning",
+  "defaultPackages": "./Data;./CoreData"
 }
 ```
