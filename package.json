@@ -1,7 +1,7 @@
 {
   "main": "./lib/main",
   "name": "linter-urho3dlinter",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "Lint Angelsript / Lua using Urho3DLinter",
   "keywords": [
     "lint",
